@@ -8,7 +8,7 @@
 baseurl: "/summer2020_research" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
 
-title: Course Title
+title: Research Towards a New Politics of Care
 author: Columbia Center for Spatial Research
 externallink: c4sr.columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
@@ -21,4 +21,3 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
-  
