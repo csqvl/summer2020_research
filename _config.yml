@@ -9,11 +9,10 @@ baseurl: "/summer2020_research" # the subpath of your site, replace with the nam
 url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
 
 title: Course Title
-author: Professor's Names
-externallink: columbia.edu #can include an external url here
+author: Columbia Center for Spatial Research
+externallink: c4sr.columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  You can add a description of your course or project here. It should be about this long or shorter.
-
+  Research on a new politics of care conducted during June-August 2020
 
 # Build settings - no need to change these
 markdown: kramdown
@@ -22,3 +21,4 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
+  
