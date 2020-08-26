@@ -42,6 +42,8 @@ The map geolocates the counties that are most vulnerable based on the *overall S
 **Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability**
 ![Overall SVI](/summer2020_research/images/crowding/COVID Data_State_Graphs-02.png)
 
+<img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-02.png" alt="description of image" class="full-img">
+
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 **Mapping: Overall SVI Crowding at County Level per State**
