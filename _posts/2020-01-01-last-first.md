@@ -34,6 +34,7 @@ Or they can just be bullet points:
   - use two spaces
   - to have nested lists
 
+
 Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
 
 To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
@@ -41,6 +42,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
 ![description of image](/summer2020_research/images/sample_image.png)
+
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
@@ -50,3 +52,7 @@ If you want to include html files (i.e. an interactive map) host these via your 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
 <div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+If you want to have an image that is the full width of the page use this syntax to add your images: 
+
+<img src="/summer2020_research/images/sample_image.png" alt="description of image" class="full-img">
