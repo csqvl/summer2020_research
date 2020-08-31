@@ -28,8 +28,9 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
   * Poverty Levels (census tract level)
 
 
-**Plotting the Data: Overall SVI at County Level per State**
-![Overall SVI](/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png)
+***Plotting the Data: Overall SVI at County Level per State***
+
+<img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png" alt="description of image" class="full-img">
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
@@ -39,10 +40,9 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties base on their individual vulnerability. It ranges from 0 tp 1.  
 The map geolocates the counties that are most vulnerable based on the *overall SVI scale*. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-**Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability**
-![Overall SVI](/summer2020_research/images/crowding/COVID Data_State_Graphs-02.png)
+***Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability***
 
-<img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-02.png" alt="description of image" class="full-img">
+<img src="/summer2020_research/images/crowding/COVID Data_State_Crowding-02.png" alt="description of image" class="full-img">
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
@@ -52,8 +52,9 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their crowding vulnerability is being plotted in the graph above.
 The map geolocates the counties that are most vulnerable based on the **Crowding**. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-**Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability**
-![Overall SVI](/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png)
+***Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level***
+
+<img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png" alt="description of image" class="full-img">
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
@@ -76,7 +77,7 @@ Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text o
 
 
 
-**Social Vulnerability Index (SVI) Breakdown at Census Tract Level**
+***Social Vulnerability Index (SVI) Breakdown at Census Tract Level***
 
 Understanding the underlying conditions that lead to underhoused households and crowding vulnerability is dependent on identifying the location of high concentrations of said vulnerability. The census tract breakdown will help build a more accurate picture of crowding vulnerability within a county. This data will be enhanced by satellite imagery to locate population clusters and identify some of its physical characteristics.
 
@@ -85,15 +86,16 @@ Understanding the underlying conditions that lead to underhoused households and 
 For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification.
 
 Site Identification:
-1. Census Tract Level analysis: Breakdown of SVI
-  * Using the crowding vulnerability:
+1. County Breakdown into Census Tract Level:
+  * Using the Crowding Social Factor vulnerability:
       - What census tract is most vulnerable based on crowding?
       - What are the population centers within the census tract?
-      - Overlapping with Covid-19 case count is data is available
+      - Overlapping with Covid-19 case count data. Depending on availability.
 1. Satellite Imagery
   * Population Clusters
-      - Potential Housing Typology: The CDC considers mobile homes and multi-unit structures a point of vulnerability
+      - Potential Housing Typology: The CDC considers mobile homes and multi-unit structures *(10 or more units)* a point of vulnerability
       - Household composition?
+      - Demographics
       - Industry: What is the most prevent employment industry?
 1. The crowding vulnerability indicators to be used include:
   * Housing type
@@ -103,62 +105,130 @@ Site Identification:
   * Household Size
   * Household Occupancy per Room
   * Current news stories that help connect these indicators
-
+1. Once at street level, observing to potentially identify patterns.
 
 **Counties with Highest Crowding Vulnerability**
 ![Overall SVI](/summer2020_research/images/crowding/All_Counties_Crowded-04.png)
 
-The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Four of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
+The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Six (6) of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
 
-**Site 1: Bronx County**
-![Overall SVI](/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png)
+***NCHS/CDC Classification: 1***
+**Site 1: Bronx County, NY**
 
-**Site 1: Census Tract**
-![Overall SVI](/summer2020_research/images/crowding/Bronx_County_Satellite_Census_Tract-01.png)
+<img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A1_Bronx_Demographics.png)
 
-**Site 1: Site Profile**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-07.png)
+The Images above introduce us to the background information for the bronx county.
 
-**Site 1: Housing Typology**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-03.png)
+**Census Tract**
 
-The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification
+<img src="/summer2020_research/images/crowding/Bronx_County_Satellite_Census_Tract-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A2_Bronx_Housing.png)
 
-**Site 2: Oglala Lakota County**
-![Overall SVI](/summer2020_research/images/crowding/Oglala Lakota_Satellite-01.png)
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A3_Bronx_Industry.png)
 
-**Site 2: Census Tract**
-![Overall SVI](/summer2020_research/images/crowding/Oglala Lakota_Satellite_Census Tract-01.png)
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Bronx Satellite.png)
 
-**Site 2: Site Profile**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-06.png)
+The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-**Site 2: Housing Typology**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-04.png)
+***NCHS/CDC Classification: 2***
+**Site 2: Tunica County, MS**
 
-The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification
+<img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
 
-**Site 2: Imperial County**
-![Overall SVI](/summer2020_research/images/crowding/Imperial CA-01.png)
+**Census Tract**
 
-**Site 2: Census Tract**
-![Overall SVI](/summer2020_research/images/crowding/El Centro CA_-01.png)
+<img src="/summer2020_research/images/crowding/Tunica Census Tract MS-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B2_Tunica_Housing.png)
 
-**Site 2: Site Profile**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-02.png)
 
-The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B3_Tunica_Industry.png)
 
-**Site 2: Sioux County**
-![Overall SVI](/summer2020_research/images/crowding/Sioux County County Satellite-01.png)
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Tunica Satellite.png)
 
-**Site 2: Census Tract**
-![Overall SVI](/summer2020_research/images/crowding/Fort Yates Satellite-01.png)
+The site above is representative of *Large Fridge Metro (2)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-**Site 2: Site Profile**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowded_County_Detail Info-05.png)
 
-The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification
+***NCHS/CDC Classification: 3***
+**Site 2: Kern County, CA**
+
+<img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C1_Kern_Demo.png)
+
+**Census Tract**
+
+<img src="/summer2020_research/images/crowding/Kern_Bakersfield_Census_Tract_-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C2_Kern_Housing.png)
+
+
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C3_kern_Industry.png)
+
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Kern Satellite.png)
+
+The site above is representative of *Medium Metro (3)* based on the National Center for Health Statistics(NCHS)/CDC classification.
+
+
+***NCHS/CDC Classification: 4***
+**Site 2: Imperial County, CA**
+
+<img src="/summer2020_research/images/crowding/Imperial CA-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D1_Imperial_Demo.png)
+
+**Census Tract**
+
+<img src="/summer2020_research/images/crowding/El Centro CA_-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D2_Imperial_Hosuing.png)
+
+
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D3_Imperial_Industry.png)
+
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Imperial Satellite.png)
+
+The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification.
+
+
+***NCHS/CDC Classification: 5***
+**Site 2: Zapata County, TX**
+
+<img src="/summer2020_research/images/Zapata County TX_-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E1_zapata_Demo.png)
+
+**Census Tract**
+
+<img src="/summer2020_research/images/crowding/Zapata Census Tract TX-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E2_Zapata_Housing.png)
+
+
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E3_Zapata_Industry.png)
+
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Zapata satellite.png)
+
+The site above is representative of *Micropolitan (5)* based on the National Center for Health Statistics(NCHS)/CDC classification.
+
+***NCHS/CDC Classification: 6***
+**Site 2: Oglala Lakota County, SD**
+
+<img src="/summer2020_research/images/Oglala Lakota_Satellite-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F1_Oglala_Demo.png)
+
+**Census Tract**
+
+<img src="/summer2020_research/images/crowding/Oglala Lakota_Satellite_Census Tract-01.png" alt="description of image" class="full-img">
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F2_Oglala Housing.png)
+
+
+![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F3_Oglala_Industry.png)
+
+**Satellite Images on Site**
+![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Oglala Satellite.png)
+
+The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 References:
 1. To Be Added
