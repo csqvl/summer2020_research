@@ -248,6 +248,4 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 References:
-1.
-1. “Affordable Housing: LISC Rural LISC.” Local Initiatives Support Corporation. Accessed August 15, 2020. https://www.lisc.org/rural/our-work/affordable-housing/.
-1.
+1.To be Added
