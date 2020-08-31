@@ -116,6 +116,7 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 **Site 1: Bronx County, NY**
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A1_Bronx_Demographics.png)
 
 The Images above introduce us to the background information for the bronx county.
@@ -123,12 +124,14 @@ The Images above introduce us to the background information for the bronx county
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_Census_Tract-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A2_Bronx_Housing.png)
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A3_Bronx_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Bronx Satellite.png)
+
+<img src="/summer2020_research/images/crowding/Satellite Images_Bronx Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -136,18 +139,20 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 **Site 2: Tunica County, MS**
 
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
 
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/Tunica Census Tract MS-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B2_Tunica_Housing.png)
 
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B3_Tunica_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Tunica Satellite.png)
+<img src="/summer2020_research/images/crowding/Satellite Images_Tunica Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Large Fridge Metro (2)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -156,18 +161,21 @@ The site above is representative of *Large Fridge Metro (2)* based on the Nation
 **Site 2: Kern County, CA**
 
 <img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C1_Kern_Demo.png)
 
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/Kern_Bakersfield_Census_Tract_-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C2_Kern_Housing.png)
 
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C3_kern_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Kern Satellite.png)
+
+<img src="/summer2020_research/images/crowding/Satellite Images_Kern Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Medium Metro (3)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -176,18 +184,21 @@ The site above is representative of *Medium Metro (3)* based on the National Cen
 **Site 2: Imperial County, CA**
 
 <img src="/summer2020_research/images/crowding/Imperial CA-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D1_Imperial_Demo.png)
 
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/El Centro CA_-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D2_Imperial_Hosuing.png)
 
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_D3_Imperial_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Imperial Satellite.png)
+
+<img src="/summer2020_research/images/crowding/Satellite Images_Imperial Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -196,18 +207,21 @@ The site above is representative of *Small Metro (4)* based on the National Cent
 **Site 2: Zapata County, TX**
 
 <img src="/summer2020_research/images/Zapata County TX_-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E1_zapata_Demo.png)
 
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/Zapata Census Tract TX-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E2_Zapata_Housing.png)
 
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E3_Zapata_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Zapata satellite.png)
+
+<img src="/summer2020_research/images/crowding/Satellite Images_Zapata satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Micropolitan (5)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -215,20 +229,25 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 **Site 2: Oglala Lakota County, SD**
 
 <img src="/summer2020_research/images/Oglala Lakota_Satellite-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F1_Oglala_Demo.png)
 
 **Census Tract**
 
 <img src="/summer2020_research/images/crowding/Oglala Lakota_Satellite_Census Tract-01.png" alt="description of image" class="full-img">
+
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F2_Oglala Housing.png)
 
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F3_Oglala_Industry.png)
 
 **Satellite Images on Site**
-![Overall SVI](/summer2020_research/images/crowding/Satellite Images_Oglala Satellite.png)
+
+<img src="/summer2020_research/images/crowding/Satellite Images_Oglala Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 References:
-1. To Be Added
+1.
+1. “Affordable Housing: LISC Rural LISC.” Local Initiatives Support Corporation. Accessed August 15, 2020. https://www.lisc.org/rural/our-work/affordable-housing/.
+1.
