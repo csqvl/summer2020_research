@@ -113,7 +113,7 @@ Census Tract Identification:
 1. Once at street level, observing to potentially identify patterns.
 
 **Counties with Highest Crowding Vulnerability**
-![Overall SVI](/summer2020_research/images/crowding/All_Counties_Crowded-04.png)
+![Overall SVI](/summer2020_research/images/crowding/Overall SVI_0_975_1_Selected Sites-09.png)
 
 The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Six (6) of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
 
