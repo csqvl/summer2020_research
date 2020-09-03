@@ -58,8 +58,9 @@ The map geolocates the counties that are most vulnerable based on the **Crowding
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
-#### Mapping: COVID-19 Case count at County Level**
-![Overall SVI](/summer2020_research/images/crowding/SVI_Crowding_Covid_2-01.png)
+#### Mapping: COVID-19 Case Count at County Level
+
+![Overall SVI](/summer2020_research/images/crowding/SVI_Crowding_Covid_Cases_Per_10k-01.png)
 
 Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.com/nytimes/covid-19-data).
 
