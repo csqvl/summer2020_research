@@ -14,6 +14,7 @@ As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one
 
 **Methodology: Part 1:**
 As the Social Vulnerability Index (SVI) is broken down, how would focusing on a single social factor (Crowding) help understand the vulnerability of a household at a county/census tract level through the following framework?
+County Identification:
 1. SVI Vulnerability Level: 0.975-1 Level
 1. SVI Crowding Vulnerability Level: 0.975-1 Level
 1. National Center for Health Statistics(NCHS)/CDC classification
@@ -32,7 +33,6 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
 #### Plotting the Data: Overall SVI at County Level per State
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png" alt="description of image" class="full-img">
-
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 **Mapping: Overall SVI at County Level per State**
@@ -67,7 +67,8 @@ Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.c
 
 All of the counties and their crowding vulnerability is being plotted in the graph above. The sizes of the circles represent the share of population of each county with COVID-19.
 
-The color combination sequences of the three graphs above use six colors to identify under which National Center for Health Statistics(NCHS)/CDC classification each county falls. The six classifications are as follows:
+The color combination sequences of the three graphs above use six colors to identify under which National Center for Health Statistics(NCHS)/CDC classification each county falls.
+The six classifications are as follows:
 1. Large Metro
   * Large Central Metro (1)
   * Large Fridge Metro (2)
@@ -75,6 +76,7 @@ The color combination sequences of the three graphs above use six colors to iden
 1. Small Metro (4)
 1. Micropolitan (5)
 1. Noncore (6)
+
 Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text of link](https://www.cdc.gov/nchs/data/series/sr_02/sr02_166.pdf).
 
 
@@ -85,7 +87,7 @@ Understanding the underlying conditions that lead to underhoused households and 
 
 **Methodology: Part 2:**
 For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification.
-Site Identification:
+Census Tract Identification:
 1. County Breakdown into Census Tract Level:
   * Using the Crowding Social Factor vulnerability:
       - What census tract is most vulnerable based on crowding?
@@ -114,14 +116,16 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 
 #### NCHS/CDC Classification: 1
 
-**Site 1: Bronx County, NY**
+**Site 1: Bronx County, NY:**
+The images below introduce us to the background information for the bronx county ranging from county to census tract level.
+
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A1_Bronx_Demographics.png)
 
-The Images above introduce us to the background information for the bronx county.
 
 **Census Tract**
+
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_Census_Tract-01.png" alt="Census Tract" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A2_Bronx_Housing.png)
