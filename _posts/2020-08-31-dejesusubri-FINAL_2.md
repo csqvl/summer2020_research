@@ -12,7 +12,7 @@ author: "Nelson De Jesus Ubri"
 
 As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one of the fifteen social factors composing the *Social Vulnerability Index (SVI)*, serves as a metric to identify vulnerable US counties with high rates of **occupancy per room (PPR)**. The CDC calculates PPR at 1.5 or more persons per room, which leads to higher vulnerability of a household. This metric is particularly important during the spread of a new highly contagious infectious disease because crowding is a condition-based indicator that helps understand vulnerability at an urban and rural scale based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-**Methodology: Part 1**
+**Methodology: Part 1:**
 As the Social Vulnerability Index (SVI) is broken down, how would focusing on a single social factor (Crowding) help understand the vulnerability of a household at a county/census tract level through the following framework?
 1. SVI Vulnerability Level: 0.975-1 Level
 1. SVI Crowding Vulnerability Level: 0.975-1 Level
@@ -27,7 +27,6 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
   * Percentage of household considered crowded (PPR: 1.5 or higher)
 1. Socioeconomics
   * Poverty Levels (census tract level)
-
 
 
 #### Plotting the Data: Overall SVI at County Level per State
@@ -46,7 +45,6 @@ The map geolocates the counties that are most vulnerable based on the *overall S
 #### Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Crowding-02.png" alt="description of image" class="full-img">
-
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 **Mapping: Overall SVI Crowding at County Level per State**
@@ -59,14 +57,12 @@ The map geolocates the counties that are most vulnerable based on the **Crowding
 #### Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png" alt="description of image" class="full-img">
-
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
 
 #### Mapping: COVID-19 Case Count at County Level
 
 ![Overall SVI](/summer2020_research/images/crowding/SVI_Crowding_Covid_Cases_Per_10k-01.png)
-
 Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.com/nytimes/covid-19-data).
 
 All of the counties and their crowding vulnerability is being plotted in the graph above. The sizes of the circles represent the share of population of each county with COVID-19.
@@ -87,7 +83,7 @@ Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text o
 
 Understanding the underlying conditions that lead to underhoused households and crowding vulnerability is dependent on identifying the location of high concentrations of said vulnerability. The census tract breakdown will help build a more accurate picture of crowding vulnerability within a county. This data will be enhanced by satellite imagery to locate population clusters and identify some of its physical characteristics.
 
-**Methodology: Part 2**
+**Methodology: Part 2:**
 For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification.
 Site Identification:
 1. County Breakdown into Census Tract Level:
