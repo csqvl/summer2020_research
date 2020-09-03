@@ -6,7 +6,9 @@ title:  "COVID-19 AND HOUSEHOLD OVERCROWDING VULNERABILITY"
 author: "Nelson De Jesus Ubri"
 ---
 
-**Social Vulnerability Index (SVI) Breakdown at County Level**
+
+##### Social Vulnerability Index (SVI) Breakdown at County Level
+
 
 As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one of the fifteen social factors composing the *Social Vulnerability Index (SVI)*, serves as a metric to identify vulnerable US counties with high rates of **occupancy per room (PPR)**. The CDC calculates PPR at 1.5 or more persons per room, which leads to higher vulnerability of a household. This metric is particularly important during the spread of a new highly contagious infectious disease because crowding is a condition-based indicator that helps understand vulnerability at an urban and rural scale based on the National Center for Health Statistics(NCHS)/CDC classification.
 
@@ -28,7 +30,8 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
   * Poverty Levels (census tract level)
 
 
-### Plotting the Data: Overall SVI at County Level per State
+
+##### Plotting the Data: Overall SVI at County Level per State
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png" alt="description of image" class="full-img">
 
@@ -40,7 +43,7 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties base on their individual vulnerability. It ranges from 0 tp 1.  
 The map geolocates the counties that are most vulnerable based on the *overall SVI scale*. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-## Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
+##### Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Crowding-02.png" alt="description of image" class="full-img">
 
@@ -52,13 +55,13 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their crowding vulnerability is being plotted in the graph above.
 The map geolocates the counties that are most vulnerable based on the **Crowding**. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-# Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
+##### Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png" alt="description of image" class="full-img">
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
-#### Mapping: COVID-19 Case Count at County Level
+##### Mapping: COVID-19 Case Count at County Level
 
 ![Overall SVI](/summer2020_research/images/crowding/SVI_Crowding_Covid_Cases_Per_10k-01.png)
 
@@ -78,7 +81,7 @@ Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text o
 
 
 
-***Social Vulnerability Index (SVI) Breakdown at Census Tract Level***
+##### Social Vulnerability Index (SVI) Breakdown at Census Tract Level
 
 Understanding the underlying conditions that lead to underhoused households and crowding vulnerability is dependent on identifying the location of high concentrations of said vulnerability. The census tract breakdown will help build a more accurate picture of crowding vulnerability within a county. This data will be enhanced by satellite imagery to locate population clusters and identify some of its physical characteristics.
 
@@ -109,11 +112,12 @@ Site Identification:
 1. Once at street level, observing to potentially identify patterns.
 
 **Counties with Highest Crowding Vulnerability**
+
 ![Overall SVI](/summer2020_research/images/crowding/All_Counties_Crowded-04.png)
 
 The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Six (6) of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
 
-***NCHS/CDC Classification: 1***
+##### NCHS/CDC Classification: 1
 
 **Site 1: Bronx County, NY**
 
@@ -137,7 +141,7 @@ The Images above introduce us to the background information for the bronx county
 
 The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-***NCHS/CDC Classification: 2***
+##### NCHS/CDC Classification: 2
 
 **Site 2: Tunica County, MS**
 
@@ -160,7 +164,8 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 The site above is representative of *Large Fridge Metro (2)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 
-***NCHS/CDC Classification: 3***
+##### NCHS/CDC Classification: 3
+
 **Site 2: Kern County, CA**
 
 <img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
@@ -183,7 +188,7 @@ The site above is representative of *Large Fridge Metro (2)* based on the Nation
 The site above is representative of *Medium Metro (3)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 
-***NCHS/CDC Classification: 4***
+##### NCHS/CDC Classification: 4
 
 **Site 2: Imperial County, CA**
 
@@ -207,7 +212,8 @@ The site above is representative of *Medium Metro (3)* based on the National Cen
 The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 
-***NCHS/CDC Classification: 5***
+##### NCHS/CDC Classification: 5
+
 **Site 2: Zapata County, TX**
 
 <img src="/summer2020_research/images/Zapata_County_TX_-01.png" alt="description of image" class="full-img">
@@ -229,7 +235,8 @@ The site above is representative of *Small Metro (4)* based on the National Cent
 
 The site above is representative of *Micropolitan (5)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-###NCHS/CDC Classification: 6
+##### NCHS/CDC Classification: 6
+
 **Site 2: Oglala Lakota County, SD**
 
 <img src="/summer2020_research/images/Oglala_Lakota_Satellite_01.png" alt="description of image" class="full-img">
