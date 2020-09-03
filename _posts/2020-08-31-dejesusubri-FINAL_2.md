@@ -13,8 +13,7 @@ author: "Nelson De Jesus Ubri"
 As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one of the fifteen social factors composing the *Social Vulnerability Index (SVI)*, serves as a metric to identify vulnerable US counties with high rates of **occupancy per room (PPR)**. The CDC calculates PPR at 1.5 or more persons per room, which leads to higher vulnerability of a household. This metric is particularly important during the spread of a new highly contagious infectious disease because crowding is a condition-based indicator that helps understand vulnerability at an urban and rural scale based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 **Methodology: Part 1:**
-As the Social Vulnerability Index (SVI) is broken down, how would focusing on a single social factor (Crowding) help understand the vulnerability of a household at a county/census tract level through the following framework?
-County Identification:
+As the Social Vulnerability Index (SVI) is broken down, how would focusing on a single social factor (Crowding) help understand the vulnerability of a household at a county/census tract level through the following framework? County Identification:
 1. SVI Vulnerability Level: 0.975-1 Level
 1. SVI Crowding Vulnerability Level: 0.975-1 Level
 1. National Center for Health Statistics(NCHS)/CDC classification
@@ -67,8 +66,7 @@ Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.c
 
 All of the counties and their crowding vulnerability is being plotted in the graph above. The sizes of the circles represent the share of population of each county with COVID-19.
 
-The color combination sequences of the three graphs above use six colors to identify under which National Center for Health Statistics(NCHS)/CDC classification each county falls.
-The six classifications are as follows:
+The color combination sequences of the three graphs above use six colors to identify under which National Center for Health Statistics(NCHS)/CDC classification each county falls. The six classifications are as follows:
 1. Large Metro
   * Large Central Metro (1)
   * Large Fridge Metro (2)
@@ -210,7 +208,7 @@ The site above is representative of *Small Metro (4)* based on the National Cent
 
 **Site 2: Zapata County, TX**
 
-<img src="/summer2020_research/images/Zapata_County_TX_-01.png" alt="description of image" class="full-img">
+<img src="/summer2020_research/images/crowding/Zapata_County_TX_-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_E1_zapata_Demo.png)
 
@@ -233,7 +231,7 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 
 **Site 2: Oglala Lakota County, SD**
 
-<img src="/summer2020_research/images/Oglala_Lakota_Satellite_01.png" alt="description of image" class="full-img">
+<img src="/summer2020_research/images/crowding/Oglala_Lakota_Satellite_01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_F1_Oglala_Demo.png)
 
@@ -253,4 +251,5 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 References:
-1.To be Added
+1. "Zapata County, Texas Coronavirus Cases and Deaths." USAFacts.org. August 14, 2020. Accessed August 14, 2020. https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/texas/county/zapata-county.
+1.
