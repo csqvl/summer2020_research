@@ -28,7 +28,7 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
   * Poverty Levels (census tract level)
 
 
-###Plotting the Data: Overall SVI at County Level per State
+### Plotting the Data: Overall SVI at County Level per State
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png" alt="description of image" class="full-img">
 
@@ -40,7 +40,7 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties base on their individual vulnerability. It ranges from 0 tp 1.  
 The map geolocates the counties that are most vulnerable based on the *overall SVI scale*. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-##Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
+## Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Crowding-02.png" alt="description of image" class="full-img">
 
@@ -52,13 +52,13 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their crowding vulnerability is being plotted in the graph above.
 The map geolocates the counties that are most vulnerable based on the **Crowding**. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
-#Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
+# Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png" alt="description of image" class="full-img">
 
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
-**Mapping: COVID-19 Case count at County Level**
+#### Mapping: COVID-19 Case count at County Level**
 ![Overall SVI](/summer2020_research/images/crowding/SVI_Crowding_Covid_2-01.png)
 
 Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.com/nytimes/covid-19-data).
