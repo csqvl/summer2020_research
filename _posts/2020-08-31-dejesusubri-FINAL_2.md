@@ -84,9 +84,7 @@ Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text o
 Understanding the underlying conditions that lead to underhoused households and crowding vulnerability is dependent on identifying the location of high concentrations of said vulnerability. The census tract breakdown will help build a more accurate picture of crowding vulnerability within a county. This data will be enhanced by satellite imagery to locate population clusters and identify some of its physical characteristics.
 
 **Methodology: Part 2:**
-For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification.
-
-Census Tract Identification:
+For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification. The census tract identification is as follows:
 1. County Breakdown into Census Tract Level:
   * Using the Crowding Social Factor vulnerability:
       - What census tract is most vulnerable based on crowding?
@@ -251,5 +249,11 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
 References:
+1. "CDC's Social Vulnerability Index (SVI)." Centers for Disease Control and Prevention. Accessed June 07, 2020. https://svi.cdc.gov/data-and-tools-download.html.
+1. Nytimes. "Nytimes/covid-19-data." GitHub. Accessed July 01, 2020. https://github.com/nytimes/covid-19-data.
+1. United States Census Bureau. Accessed July 01, 2020. https://data.census.gov/cedsci/.
+1.  Lovett, Ian, Dan Frosch, and Paul Overberg. "Covid-19 Stalks Large Families in Rural America." The Wall Street Journal. June 07, 2020. Accessed July 25, 2020. https://www.wsj.com/articles/covid-19-households-spread-coronavirus-families-navajo-california-second-wave-11591553896.
+1.  Reilly, Robert. Complicated Relationships. PDF file. September 20, 2017. http://www.ruralhome.org/storage/documents/ts2010/ts_full_report.pdf
+1. Marvel, Shannon. "Pine Ridge Reservation Holds Strong during COVID-19 Pandemic." The Mitchell Republic. June 10, 2020. Accessed September 07, 2020. https://www.mitchellrepublic.com/newsmd/coronavirus/6529999-Pine-Ridge-Reservation-holds-strong-during-COVID-19-pandemic.
+1. Goldstein, Joseph. "1.5 Million Antibody Tests Show What Parts of N.Y.C. Were Hit Hardest." The New York Times. August 19, 2020. Accessed August 20, 2020. https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html.
 1. "Zapata County, Texas Coronavirus Cases and Deaths." USAFacts.org. August 14, 2020. Accessed August 14, 2020. https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/texas/county/zapata-county.
-1.
