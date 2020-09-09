@@ -116,6 +116,10 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 #### NCHS/CDC Classification: 1
 
 **Site 1: Bronx County, NY:**
+
+__
+
+
 The images below introduce us to the background information for the bronx county ranging from county to census tract level.
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
@@ -140,7 +144,7 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 
 #### NCHS/CDC Classification: 2
 **Site 2: Tunica County, MS**
-
+--
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
@@ -161,8 +165,9 @@ The site above is representative of *Large Fridge Metro (2)* based on the Nation
 --
 
 #### NCHS/CDC Classification: 3
+--
 **Site 2: Kern County, CA**
-
+--
 
 <img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
 
