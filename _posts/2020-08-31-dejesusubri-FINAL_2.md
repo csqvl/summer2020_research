@@ -122,9 +122,11 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 
 #### NCHS/CDC Classification: 1
 
-**Site 1: Bronx County, NY:**
+**Site 1: Bronx County, NY**
 
-The images below introduce us to the background information for the bronx county ranging from county to census tract level.
+Household crowding in New York City has been an issue that has worsened over the last decade. A report released by the city's comptroller's office in October 2015 details crowding conditions in each of the five boroughs, increasing 15.8 percent city-wide between 2005 and 2013. The Bronx was the borough (county) with the most crowded households, with 12.4 percent of its housing units being crowded.
+ 
+Based on the overall Social Vulnerability Index (SVI), crowding conditions, and Coronavirus infections, Bronx County is the most vulnerable county. Within this borough, Highbridge/Concourse Village was one of the most affected community districts by the Covid-19 based on antibody result data released by the NYC Health Department. It also has some of the highest levels of crowding vulnerability at the census tract level. Below is a case study that compares county and census tract vulnerability.
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
 
