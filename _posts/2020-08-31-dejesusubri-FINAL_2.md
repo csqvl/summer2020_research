@@ -142,6 +142,7 @@ Based on the overall Social Vulnerability Index (SVI), crowding conditions, and 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_A3_Bronx_Industry.png)
 
 **Satellite Images on Site**
+
 <img src="/summer2020_research/images/crowding/Satellite Images_Bronx Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification.
@@ -159,6 +160,7 @@ Tunica County is the most vulnerable county in terms of overall SVI (0.9720) and
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
 
 **Census Tract**
+
 <img src="/summer2020_research/images/crowding/Tunica Census Tract MS-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B2_Tunica_Housing.png)
@@ -167,6 +169,7 @@ Tunica County is the most vulnerable county in terms of overall SVI (0.9720) and
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B3_Tunica_Industry.png)
 
 **Satellite Images on Site**
+
 <img src="/summer2020_research/images/crowding/Satellite Images_Tunica Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Large Fridge Metro (2)* based on the National Center for Health Statistics(NCHS)/CDC classification.
@@ -275,17 +278,18 @@ The site above is representative of *Noncore (6)* based on the National Center f
 
 References:
 1. "CDC's Social Vulnerability Index (SVI)." Centers for Disease Control and Prevention. Accessed June 07, 2020. https://svi.cdc.gov/data-and-tools-download.html.
-1. Nytimes. "Nytimes/covid-19-data." GitHub. Accessed July 01, 2020. https://github.com/nytimes/covid-19-data.
-1. United States Census Bureau. Accessed July 01, 2020. https://data.census.gov/cedsci/.
-1.  Lovett, Ian, Dan Frosch, and Paul Overberg. "Covid-19 Stalks Large Families in Rural America." The Wall Street Journal. June 07, 2020. Accessed July 25, 2020. https://www.wsj.com/articles/covid-19-households-spread-coronavirus-families-navajo-california-second-wave-11591553896.
 1. Census Reporter: Making Census Data Easy to Use. Accessed July 20, 2020. https://censusreporter.org/.
-1. "NYC Planning Population FactFinder." NYC Population FactFinder. Accessed August 02, 2020. https://popfactfinder.planning.nyc.gov/profile/5854/housing?comparator=2.
-1. Scott M. Stringer. NYC Housing Brief: Hidden Households. PDF file. October 2015. https://comptroller.nyc.gov/wp-content/uploads/documents/Hidden_Households.pdf
+1. Cimini, Kate. "California's Housing Crisis Sickens Families." CalMatters. February 27, 2020. Accessed July 16, 2020. https://calmatters.org/projects/californias-housing-crisis-causes-illnesses/.
+1.  Community Development Department. Housing Element 2015-2023. PDF file. February 16, 2016. http://www.ruralhome.org/storage/documents/ts2010/ts_full_report.pdf
+1. Dougherty, Conor. "12 People in a 3-Bedroom House, Then the Virus Entered the Equation." The New York Times. August 01, 2020. Accessed August 03, 2020. https://www.nytimes.com/2020/08/01/business/economy/housing-overcrowding-coronavirus.html.
+1. Feldman, Justin. "Does COVID-19's Toll Reflect Social Inequality? Early Evidence from NYC." Medium. April 02, 2020. Accessed July 10, 2020. https://medium.com/@jmfeldman/does-covid-19s-toll-reflect-social-inequality-early-evidence-from-nyc-209c3b0a0ff7.
+1. Goldstein, Joseph. "1.5 Million Antibody Tests Show What Parts of N.Y.C. Were Hit Hardest." The New York Times. August 19, 2020. Accessed August 20, 2020. https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html.
 1.  Housing Assistance Council. Taking Stock: Rural People, Poverty, and Housing
 in the 21st Century. PDF file. December 2012. http://docs.bakersfieldcity.us/weblink/0/edoc/1273910/Bakersfield%20Housing%20Element%20(2015-2023).pdf
-1.  Community Development Department. Housing Element 2015-2023. PDF file. February 16, 2016. http://www.ruralhome.org/storage/documents/ts2010/ts_full_report.pdf
+1.  Lovett, Ian, Dan Frosch, and Paul Overberg. "Covid-19 Stalks Large Families in Rural America." The Wall Street Journal. June 07, 2020. Accessed July 25, 2020. https://www.wsj.com/articles/covid-19-households-spread-coronavirus-families-navajo-california-second-wave-11591553896.
 1. Marvel, Shannon. "Pine Ridge Reservation Holds Strong during COVID-19 Pandemic." The Mitchell Republic. June 10, 2020. Accessed September 07, 2020. https://www.mitchellrepublic.com/newsmd/coronavirus/6529999-Pine-Ridge-Reservation-holds-strong-during-COVID-19-pandemic.
-1. Goldstein, Joseph. "1.5 Million Antibody Tests Show What Parts of N.Y.C. Were Hit Hardest." The New York Times. August 19, 2020. Accessed August 20, 2020. https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html.
+1. "NYC Planning Population FactFinder." NYC Population FactFinder. Accessed August 02, 2020. https://popfactfinder.planning.nyc.gov/profile/5854/housing?comparator=2.
+1. Nytimes. "Nytimes/covid-19-data." GitHub. Accessed July 01, 2020. https://github.com/nytimes/covid-19-data.
+1. Scott M. Stringer. NYC Housing Brief: Hidden Households. PDF file. October 2015. https://comptroller.nyc.gov/wp-content/uploads/documents/Hidden_Households.pdf
+1. United States Census Bureau. Accessed July 01, 2020. https://data.census.gov/cedsci/.
 1. "Zapata County, Texas Coronavirus Cases and Deaths." USAFacts.org. August 14, 2020. Accessed August 14, 2020. https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/texas/county/zapata-county.
-1. Cimini, Kate. "California's Housing Crisis Sickens Families." CalMatters. February 27, 2020. Accessed July 16, 2020. https://calmatters.org/projects/californias-housing-crisis-causes-illnesses/.
-1. Dougherty, Conor. "12 People in a 3-Bedroom House, Then the Virus Entered the Equation." The New York Times. August 01, 2020. Accessed August 03, 2020. https://www.nytimes.com/2020/08/01/business/economy/housing-overcrowding-coronavirus.html.
