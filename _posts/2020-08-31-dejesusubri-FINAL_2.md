@@ -125,7 +125,7 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 **Site 1: Bronx County, NY**
 
 Household crowding in New York City has been an issue that has worsened over the last decade. A report released by the city's comptroller's office in October 2015 details crowding conditions in each of the five boroughs, increasing 15.8 percent city-wide between 2005 and 2013. The Bronx was the borough (county) with the most crowded households, with 12.4 percent of its housing units being crowded.
- 
+
 Based on the overall Social Vulnerability Index (SVI), crowding conditions, and Coronavirus infections, Bronx County is the most vulnerable county. Within this borough, Highbridge/Concourse Village was one of the most affected community districts by the Covid-19 based on antibody result data released by the NYC Health Department. It also has some of the highest levels of crowding vulnerability at the census tract level. Below is a case study that compares county and census tract vulnerability.
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
@@ -151,6 +151,8 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 #### NCHS/CDC Classification: 2
 
 **Site 2: Tunica County, MS**
+
+Tunica County is the most vulnerable county in terms of overall SVI (0.9720) and crowding (0.9124) with a National Center for Health Statistics(NCHS)/CDC classification of *Large Fridge Metro (2)*. This county experiences less crowding than others compared in this analysis, however, as a county in the middle of the Lower Mississippi Delta with a majority black population. It represents a different demographic breakdown that is not as represented in the other counties. Below is a case study that compares county and census tract vulnerability.
 
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
 
