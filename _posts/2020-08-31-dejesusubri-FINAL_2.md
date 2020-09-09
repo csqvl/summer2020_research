@@ -111,6 +111,8 @@ For this analysis, correlations between **high crowding and Covid-19 case rates*
 
 The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Six (6) of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
 
+--
+
 #### NCHS/CDC Classification: 1
 
 **Site 1: Bronx County, NY:**
@@ -134,9 +136,11 @@ The images below introduce us to the background information for the bronx county
 
 The site above is representative of *Large Central Metro (1)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
-#### NCHS/CDC Classification: 2
+--
 
+#### NCHS/CDC Classification: 2
 **Site 2: Tunica County, MS**
+
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
@@ -154,10 +158,12 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 
 The site above is representative of *Large Fridge Metro (2)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
+--
 
 #### NCHS/CDC Classification: 3
-
 **Site 2: Kern County, CA**
+
+
 <img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_C1_Kern_Demo.png)
