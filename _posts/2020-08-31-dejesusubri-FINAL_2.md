@@ -276,6 +276,7 @@ References:
 1.  Lovett, Ian, Dan Frosch, and Paul Overberg. "Covid-19 Stalks Large Families in Rural America." The Wall Street Journal. June 07, 2020. Accessed July 25, 2020. https://www.wsj.com/articles/covid-19-households-spread-coronavirus-families-navajo-california-second-wave-11591553896.
 1. Census Reporter: Making Census Data Easy to Use. Accessed July 20, 2020. https://censusreporter.org/.
 1. "NYC Planning Population FactFinder." NYC Population FactFinder. Accessed August 02, 2020. https://popfactfinder.planning.nyc.gov/profile/5854/housing?comparator=2.
+1. Scott M. Stringer. NYC Housing Brief: Hidden Households. PDF file. October 2015. https://comptroller.nyc.gov/wp-content/uploads/documents/Hidden_Households.pdf
 1.  Housing Assistance Council. Taking Stock: Rural People, Poverty, and Housing
 in the 21st Century. PDF file. December 2012. http://docs.bakersfieldcity.us/weblink/0/edoc/1273910/Bakersfield%20Housing%20Element%20(2015-2023).pdf
 1.  Community Development Department. Housing Element 2015-2023. PDF file. February 16, 2016. http://www.ruralhome.org/storage/documents/ts2010/ts_full_report.pdf
