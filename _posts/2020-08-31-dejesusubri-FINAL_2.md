@@ -29,6 +29,9 @@ As the Social Vulnerability Index (SVI) is broken down, how would focusing on a 
   * Poverty Levels (census tract level)
 
 
+  --
+
+
 #### Plotting the Data: Overall SVI at County Level per State
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-01.png" alt="description of image" class="full-img">
@@ -39,6 +42,8 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 
 All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties base on their individual vulnerability. It ranges from 0 tp 1.  
 The map geolocates the counties that are most vulnerable based on the *overall SVI scale*. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
+
+--
 
 
 #### Plotting the Data: Overall SVI at County Level per State based on Crowding Vulnerability
@@ -52,12 +57,14 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 All of the counties and their crowding vulnerability is being plotted in the graph above.
 The map geolocates the counties that are most vulnerable based on the **Crowding**. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
+--
 
 #### Plotting the Data: Covid-19 Cases Count Based on Shared of Population at County Level
 
 <img src="/summer2020_research/images/crowding/COVID Data_State_Graphs-03.png" alt="description of image" class="full-img">
 Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](https://svi.cdc.gov/map.html).
 
+--
 
 #### Mapping: COVID-19 Case Count at County Level
 
@@ -77,7 +84,7 @@ The color combination sequences of the three graphs above use six colors to iden
 
 Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text of link](https://www.cdc.gov/nchs/data/series/sr_02/sr02_166.pdf).
 
-
+--
 
 #### Social Vulnerability Index (SVI) Breakdown at Census Tract Level
 
@@ -117,9 +124,6 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 
 **Site 1: Bronx County, NY:**
 
-__
-
-
 The images below introduce us to the background information for the bronx county ranging from county to census tract level.
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
@@ -143,8 +147,9 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 --
 
 #### NCHS/CDC Classification: 2
+
 **Site 2: Tunica County, MS**
---
+
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
 
 ![Overall SVI](/summer2020_research/images/crowding/Demographic_Housing_Industry_Info_B1_Tunica_Demographics.png)
@@ -165,9 +170,8 @@ The site above is representative of *Large Fridge Metro (2)* based on the Nation
 --
 
 #### NCHS/CDC Classification: 3
---
+
 **Site 2: Kern County, CA**
---
 
 <img src="/summer2020_research/images/crowding/Kern_County_Satellite_-01.png" alt="description of image" class="full-img">
 
@@ -188,6 +192,7 @@ The site above is representative of *Large Fridge Metro (2)* based on the Nation
 
 The site above is representative of *Medium Metro (3)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
+--
 
 #### NCHS/CDC Classification: 4
 
@@ -212,6 +217,7 @@ The site above is representative of *Medium Metro (3)* based on the National Cen
 
 The site above is representative of *Small Metro (4)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
+--
 
 #### NCHS/CDC Classification: 5
 
@@ -236,6 +242,8 @@ The site above is representative of *Small Metro (4)* based on the National Cent
 
 The site above is representative of *Micropolitan (5)* based on the National Center for Health Statistics(NCHS)/CDC classification.
 
+--
+
 #### NCHS/CDC Classification: 6
 
 **Site 2: Oglala Lakota County, SD**
@@ -258,6 +266,8 @@ The site above is representative of *Micropolitan (5)* based on the National Cen
 <img src="/summer2020_research/images/crowding/Satellite Images_Oglala Satellite.png" alt="description of image" class="full-img">
 
 The site above is representative of *Noncore (6)* based on the National Center for Health Statistics(NCHS)/CDC classification.
+
+--
 
 References:
 1. "CDC's Social Vulnerability Index (SVI)." Centers for Disease Control and Prevention. Accessed June 07, 2020. https://svi.cdc.gov/data-and-tools-download.html.
