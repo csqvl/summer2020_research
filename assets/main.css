@@ -646,3 +646,13 @@ img.float-left {
   height: 30vw;
   margin-bottom: 12;
 }
+
+/* New Home Page */ 
+
+.row.c4sr-project-table {
+    overflow: hidden;
+    padding: 10px;
+    border-top: none;
+    width: 92%;
+    margin: 0 auto 40px;
+    font-size: 80%;
