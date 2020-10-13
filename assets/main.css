@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 18px/1.5 'UniversNextW01-Regular', Helvetica, Arial, sans-serif;
   color: #111111;
   /* background-color: #fffffd; */
   -webkit-text-size-adjust: 100%;
@@ -106,8 +106,8 @@ blockquote {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(1200px - (30px * 2));
+  max-width: calc(1200px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
@@ -166,7 +166,7 @@ blockquote {
 /**
  * Tables
  */
-table {
+/* table {
   margin-bottom: 30px;
   width: 100%;
   text-align: left;
@@ -182,7 +182,7 @@ table {
     border: 1px solid #dedede;
     border-bottom-color: #c9c9c9; }
   table td {
-    border: 1px solid #000000; }
+    border: 1px solid #000000; } */
 
 /**
  * Site header
@@ -647,12 +647,55 @@ img.float-left {
   margin-bottom: 12;
 }
 
+
+
+
 /* New Home Page */ 
 
 .row.c4sr-project-table {
-    overflow: hidden;
-    padding: 10px;
-    border-top: none;
-    width: 92%;
-    margin: 0 auto 40px;
-    font-size: 80%;
+  overflow: hidden;
+  padding: 0px;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 14px;
+  border-left-style: none;
+  padding-top: 40px;
+}
+
+
+.table>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+  border-bottom: 1px solid #000;
+  border-top: none;
+  padding: 20px 0;
+  font-weight: 300;
+  background-color:#fdfdfd;
+}
+
+.intro {
+  /* display: table; */
+  width: 100%;
+  /* height: 400px; */
+  padding-top: 80px 0;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  /* background-image: url(/summer2020_research/images/headerimg-01.png); */
+
+}
+.intro-body{
+  font-size: 60px;
+  color:black;
+  /* margin-left: 8%; */
+}
+
+#home-nav {
+  padding: 2px;
+  color: black;
+  background: white;
+  letter-spacing: 0;
+}
+
+.down-arrow {
+  width:100px;
+}    
+      
+ 
