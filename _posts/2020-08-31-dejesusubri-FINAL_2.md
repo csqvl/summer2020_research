@@ -2,7 +2,7 @@
 layout: post
 date:   2020-08-31
 image: "/summer2020_research/images/csr_thumbnail.png"
-title:  "COVID-19 AND HOUSEHOLD OVERCROWDING VULNERABILITY"
+title:  "COVID-19 and Household Overcrowding Vulnerability"
 author: "Nelson De Jesus Ubri"
 ---
 
