@@ -7,7 +7,6 @@ author: "Caitlin Blanchfield"
 ---
 
 <img src="/summer2020_research/images/navajo/FIGURE-01.jpg" alt="FIGURE 01: Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News." class="full-img"> FIGURE 01: Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News.
-
 <br><br>
 #### Introduction  
 In mid-March of 2020, around the time that the World Health Organization had declared COVID-19 a pandemic and the United States had claimed it a national emergency, hotspots began to emerge throughout the country as the virus took hold with particular intensity in specific regions. Many of these were urban areas with high density, cities like Seattle and then New York, Detroit, and suburban New Jersey. One hotspot however seemed to surprise both the public and public health officials: the Navajo Nation, a Native American reservation that spans northern Arizona, southern Utah, and northern New Mexico. In April cases on the Navajo Nation started rapidly climbing, by May 18, it had surpassed New York for highest cases per capita.<sup>1</sup> Though first underreported due to the way COVID data was aggregated by county, the Navajo Nation did soon emerge as cite of much media coverage. The virus was shedding light on the underlying conditions that had allowed it to spread.  
@@ -20,26 +19,24 @@ In the words of Diné geographer Andrew Curley, “When we see statistics statin
 
 ![FIGURE 02: Indigenous territories of the Southwest.](/summer2020_research/images/navajo/FIGURE-02.jpg)  
 FIGURE 02: Indigenous territories of the Southwest.
-
 <br><br>
 #### II. Diné Bikéyah  
 
 <img src="/summer2020_research/images/navajo/FIGURE-03-04.jpg" alt="FIGURE 03: Diné Bikéyah and neighboring nations. FIGURE 04: Diné Bikéyah." class="full-img">
 FIGURE 03: Diné Bikéyah and neighboring nations. FIGURE 04: Diné Bikéyah.  
-
+<br>
 The ancestral homelands of the Diné people, Diné Bikéyah, encompass the land between four sacred mountains—Sisnaajiní (Blanca Peak), Tsoodził (Mount Taylor), Dook’o’oosłííd (San Francisco Peaks), and Dibé Nitsaa (Hesperus Mountain) in a territory that overlaps Hopi, Paiute, Ute, and Zuni lands. The boundaries of Diné Bikéyah extend across what are now the states of Arizona, Colorado, Utah, and New Mexico. The current Navajo Reservation covers much, though not all, of these ancestral homelands. 
 
 Jennifer Nez Denetdale describes Navajo land as follows:  
 >Dinétah is the place where earth people and Holy People interacted; their relationships form the foundation of practices and teachings that underlie Navajo life today. The Holy People set the Diné homeland’s boundaries with soil brought from the lower world, placing the soil as mountains in each of the four directions. Diné Bikéyah refers to the lands that lie within the four sacred mountains, which are named Sis Naajiní, or Blanca Peak, in the east; Tsoodził, or Mount Taylor, in the south; Dook’oosłííd, or the San Francisco Peaks, in the west; and Dibé Nitsaa, or Mount Hesperus, in the north. The soil brought from the world below also formed two other mountains: Dził Na’oodiłii, or Huerfano Mountain—east of the center, and Ch’ool’í’í, or Gobernador Knob—the center. These last two mountains are within Dinétah and central to events that occurred when the progenitors of the Diné emerged into the world we inhabit today, which is known as the Glittering World. Traditional Navajo philosophy names these six mountains as the leaders of the Diné. It is in this place that the philosophy sa’ah nagháí bik’eh hózhóón was established through actions and words. Navajo leaders and citizens declare that traditional teachings form the foundation of the sovereignty that the United States recognized in the Treaty of 1868.<sup>5</sup>
 
 As Denetdale’s telling of Diné Bikeyah’s origin story reflects, the interconnection between surface and subsurface is fundamental to Diné conceptions of land and territory. Further, land is a site of lived tradition and ceremony, a place of relations, and a terrain where plants, animals, and people are supported by mountains, rain, wind, and snow. Land is also not just a two-dimensional plane drawn on a map as colonial mapping practices would render it as. It is also the air, the soil, and subsurface geology, and the water.  
-
 <br><br>
 #### III. Treaty  
 
 ![FIGURE 05: 1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.](/summer2020_research/images/navajo/FIGURE-05.jpg)
 FIGURE 05: 1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.
-
+<br>
 The Diné had lived in and moved through Dine Bikeyah for thousands of years, but as the West and Southwest were “opened” to settlement in the mid-nineteenth century that land was claimed by white settlers moving into Arizona, New Mexico, and Utah territories in advance of their anticipated statehood. Settler incursions and land grabs escalated into violent invasion in 1863 when the United States Union Army entered Diné territory and destroying lives and land in a deadly scorched earth policy. Ultimately, the army, led by Kit Carson, forced the Diné people in what was called “the long walk” onto the Bosque Redondo concentration camp in New Mexico territory. 
 
 In 1868 the Diné interned at Bosque Redondo signed Naal Tsoos Saní (the Treaty of Fort Sumner), establishing the Navajo Reservation on what amounted to only a quarter of their homelands.<sup>6</sup> The treaty created the boundaries of the reservation at the 37th degree latitude to the north, a line passing through Fort Defiance to the south, a longitude parallel through Bear Spring on the east, and to the west a longitude line alongside Cañon de Chelly. Within these boundaries, “The United States agrees that no persons except those herein so authorized to do, and except such officers, soldiers, agents, and employees of the government, or of the Indians, as may be authorized to enter upon Indian reservations in discharge of duties imposed by law, or the orders of the President, shall ever be permitted to pass over, settle upon, or reside in, the territory described in this article.”<sup>7</sup> While the treaty explicitly stated that those not authorized [i.e. non-Diné] could not settle within the reservation boundary, it said nothing about the use of resources that passed through the reservation (water) or underneath the soil. 
@@ -49,7 +46,6 @@ This treaty also enshrined several principles of settler colonial governmentalit
 Naal Tsoos Saní also brought with it the paradoxes of recognition—being recognized as soverign by the United States government enabled the United States government to dictate what sovereignty meant and the forms through which it could be practiced and acknowledged. Dene political theorist Glen Coulthard describes the politics of recognition like this, “the politics of recognition in its contemporary liberal form promises to reproduce the very configurations of colonialist, racist, patriarchal state power that Indigenous people’s struggles for recognition sought to transcend.”<sup>8</sup> In the case of water rights, recognition has meant entering into a process of negotiation, arbitration, and settlement with the state that has then lead to compromised rights to water. State and federal laws circumscribe the terms by which one can claim water, the ways in which one might understand water, and the landbase from which it could be claimed. 
 
 The treaty established private property ownership, Western agricultural practices, and the logic of expansion on the Navajo Nation, and within the documents that governed its existence. And while within the treaty attention was paid to practices of surveying and the enforcement of property among Navajo “settlers,” there was no mention of subsurface rights, including water. However, per the laws governing the establishment of reservations, unless explicitly stated land rights are meant to extent to natural resources.<sup>9</sup> These obligations were not upheld and over the twentieth century tribes had to fight for their mineral and water rights. 
-
 <br><br>
 #### IV. Reservation  
 
@@ -62,7 +58,6 @@ Over half a decade the land base of the Diné people grew to approximate—but n
 The letter goes on describe good relationships with white settlers but also settlers who would take Navajo allotments or expand their property lines into them. It also decries the constant relocation of Diné families: “we are paying taxes on this land and still we are asked to move out…” Allotment was a conception and representation of land completely counter to Diné ways of thinking. For the Diné, whose four sacred mountains are made of soil from the underworld, the subsurface, surface, and sky were interconnected. Surveying and allotting practices denied such a view and limited the notion of land and resources. 
 
 Ultimately, the government extended the Navajo Nation into this checkerboard area of Arizona, but with, as Kelley and Francis point out, the intention of reducing Navajo livestock to prevent erosion and water depletion along the Colorado river as it surged to the newly-built Hoover Dam. By the early 1930s the Colorado River watershed had been neatly split between the five new states of the American West, leaving out native nations. 
-
 <br><br>
 #### V. Prior Appropriation  
 
@@ -81,7 +76,6 @@ FIGURE 07: Land and water jurisdiction on the Navajo Nation in Utah.
 
 ![FIGURE 08: Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.](/summer2020_research/images/navajo/FIGURE-08.png)
 FIGURE 08: Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.
-
 <br><br>
 #### VI. Colorado River Compact  
 
@@ -91,11 +85,10 @@ FIGURE 09: Colorado River Compact 1922.
 By the early 1920s, as cities like Los Angeles, Tucson, and Phoenix grew, it became clear that water would be a finite, and much vied for, resource in the west. Wending through seven states, the Colorado River and its tributaries supply most of the fresh water in the region. In 1922, these states (Arizona, California, Colorado, New Mexico, Nevada, Utah, and Wyoming) forged the Colorado River Compact, to “equitably divide” the waters of the Colorado and establish “the relative importance” of various beneficial uses of the water. Under this legislative agreement the seven states had rights to 7,500,000 acre feet a year from both the upper and lower Colorado River watersheds. Anticipating population growth,  the lower Colorado River basin could increase this by one million acre feet a year.<sup>13</sup> While article seven of the Compact states that, “nothing in this compact shall be construed as effecting the commitments of the United States of America to Indian Tribes,” there were no tribal representatives at the negotiating table, and the compact does not explicitly indicate how much water would go to the many Native nations within the watershed at the time of signing.<sup>14</sup> In fact at the time the compact was signed there was no mechanism to enforce existing commitments with Tribes. While the Winters Doctrine had established that Native nations could claim enough water rights as to sustain the population of their reservation, there was no established standard to quantify them nor avenue to bring these claims to court. Further, sovereign tribal governments had treaties with the federal government and as so-called domestic dependents, negotiated with the federal government. Water rights were allocated to and divvyed up by states. Tribal governments fell into an intentional jurisdictional gap. 
 
 In 1922, when the compact went into effect, the Navajo Nation was smaller it is today, meaning that and existing commitments would only apply to those 1922 boundaries and individual Navajo citizens would have to continue to petition the state for water rights as reservation boundaries extended. But most importantly, the Colorado River Compact treated water as property to be commodified, owned, and governed—just as land had been by the Dawes Act. For the Diné, through whose lands the river runs, its water holds other meanings. Water is a relative not a resource to be claimed and exhaustively extracted for commercial development. Water is to be lived with, sustained, and cared for. The compact framed water through an entirely different jurisdictional apparatus, and through a world view of development and extraction. It was this logic that would make water more scarce and less cared for in Diné Bikeyah. 
-
 <br><br>
 #### VII. Settlements  
 
-<img src="/summer2020_research/images/navajo/FIGURE-10.jpg" alt="FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico." class="full-img"> FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.
+![FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.](/summer2020_research/images/navajo/FIGURE-10.jpg) FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.
 
 The decades following the Colorado River Compact saw the Navajo land base increase, but its water rights stagnate. Winters promises went unfulfilled while water both on and below the surface of Diné Bikeyah was siphoned and drained for state and federal projects.<sup>15</sup> These projects would have lasting consequences. During WWII, the United States developed its nuclear program by extracting uranium and testing bombs in the Southwest, primarily on Indigenous land in Arizona, Utah, New Mexico and Nevada. Ample stores of uranium were found on the Navajo Nation, and private mining companies contracted by the federal government quickly began leasing Navajo land. Brokered by state governments, these leases directed revenue earned on Navajo trust land (as opposed to allotment land) to be held in trust by the federal government to disburse to a tribal government (whose structures it had created). As a result, land leases were negotiated in favor of mining corporations, while uranium and coal contaminated the bodies of miners and the ecology of the region as they leached into the water table and dissipated into the air. 
 
@@ -112,7 +105,6 @@ Andrew Curley describes how activists protested the very limited water rights ag
 According to Curley the activists and tribal offices participating in water rights settlements, and surrounding debates, are navigating a paradoxical terrain. They must fight to meet the very real need for water infrastructure on the Navajo Nation while still opposing the settler colonial logics of water rights settlements. “Diné water governance transcends the colonial limitations of western water law through use of both pragmatic and decolonial practices. Diné advocates work to maximize water quantification while supporting the idea of traditional water uses for sustainable lifeways,” he writes.<sup>21</sup>
 
 A report commissioned by Arizona congressperson Raul Grijavla recognizes that the federal government has, historically, blatantly ignored its obligations to native nations in the interest of settler expansion in the West, “Tribes often hold the most senior water rights in many river basins. Under federal law, the federal government must protect these tribal water rights. However, for more than a century, the federal government has failed to fulfill this role and, in many cases, actively undermined tribal water rights to provide water to non-Indian neighbors. To encourage people to move West in the 1900s, the federal government provided land and infrastructure, building the pipes and systems needed to bring heavily subsidized irrigation and drinking water to settlers. This water frequently came at tribes’ expense. As a result, today, many tribes still lack access to water. 
-
 <br><br>
 #### VIII. Wet Water  
 
@@ -135,7 +127,6 @@ The use of CARES act funds for water and electricity poses the question: what do
 
 ![FIGURE 12: Flyer from ToÌ Bei Nihi Dziil.](/summer2020_research/images/navajo/FIGURE-12.jpg)  
 FIGURE 12: Flyer from ToÌ Bei Nihi Dziil.
-
 <br><br>
 #### Notes  
 
