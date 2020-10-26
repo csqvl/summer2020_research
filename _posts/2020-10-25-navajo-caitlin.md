@@ -7,7 +7,7 @@ author: "Caitlin Blanchfield"
 ---
 
 <img src="/summer2020_research/images/navajo/FIGURE-01.jpg" alt="description of image" class="full-img"> FIGURE 01: Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News.
-
+<br><br>
 #### Introduction  
 In mid-March of 2020, around the time that the World Health Organization had declared COVID-19 a pandemic and the United States had claimed it a national emergency, hotspots began to emerge throughout the country as the virus took hold with particular intensity in specific regions. Many of these were urban areas with high density, cities like Seattle and then New York, Detroit, and suburban New Jersey. One hotspot however seemed to surprise both the public and public health officials: the Navajo Nation, a Native American reservation that spans northern Arizona, southern Utah, and northern New Mexico. In April cases on the Navajo Nation started rapidly climbing, by May 18, it had surpassed New York for highest cases per capita.<sup>1</sup> Though first underreported due to the way COVID data was aggregated by county, the Navajo Nation did soon emerge as cite of much media coverage. The virus was shedding light on the underlying conditions that had allowed it to spread.  
 
@@ -18,7 +18,7 @@ While there are several causes attributed to the COVID outbreak on the Navajo Na
 In the words of Diné geographer Andrew Curley, “When we see statistics stating that 30% to 40% of Diné communities lack running water during a global pandemic, they are not statistics without history. The entire situation is an artifact of colonialism. It is the result of decades of indifference, neglect and deliberate underdevelopment.”<sup>4</sup> This is an ongoing struggle that grassroots collectives, citizens, NGOs and agencies like the Navajo Tribal Utility Authority (NTUA) as well as the Tribal Government are currently confronting with particular urgency in response to the pandemic. Neighbors are delivering water barrels, organizations are digging wells, the NTUA is building cisterns and pipelines. Activists are demanding rights to their traditional waters. This essay chronicles a history of settler colonial policies that have attempted to take water Diné homelands, and the work of tribal members to restore their rights to water. 
 
 ![FIGURE 02: Indigenous territories of the Southwest.](/summer2020_research/images/navajo/FIGURE-02.jpg)  
-
+<br><br>
 #### II. Diné Bikéyah  
 
 ![FIGURE 03: Diné Bikéyah and neighboring nations.](/summer2020_research/images/navajo/FIGURE-03.jpg)  
@@ -32,7 +32,7 @@ Jennifer Nez Denetdale describes Navajo land as follows:
 >Dinétah is the place where earth people and Holy People interacted; their relationships form the foundation of practices and teachings that underlie Navajo life today. The Holy People set the Diné homeland’s boundaries with soil brought from the lower world, placing the soil as mountains in each of the four directions. Diné Bikéyah refers to the lands that lie within the four sacred mountains, which are named Sis Naajiní, or Blanca Peak, in the east; Tsoodził, or Mount Taylor, in the south; Dook’oosłííd, or the San Francisco Peaks, in the west; and Dibé Nitsaa, or Mount Hesperus, in the north. The soil brought from the world below also formed two other mountains: Dził Na’oodiłii, or Huerfano Mountain—east of the center, and Ch’ool’í’í, or Gobernador Knob—the center. These last two mountains are within Dinétah and central to events that occurred when the progenitors of the Diné emerged into the world we inhabit today, which is known as the Glittering World. Traditional Navajo philosophy names these six mountains as the leaders of the Diné. It is in this place that the philosophy sa’ah nagháí bik’eh hózhóón was established through actions and words. Navajo leaders and citizens declare that traditional teachings form the foundation of the sovereignty that the United States recognized in the Treaty of 1868.<sup>5</sup>
 
 As Denetdale’s telling of Diné Bikeyah’s origin story reflects, the interconnection between surface and subsurface is fundamental to Diné conceptions of land and territory. Further, land is a site of lived tradition and ceremony, a place of relations, and a terrain where plants, animals, and people are supported by mountains, rain, wind, and snow. Land is also not just a two-dimensional plane drawn on a map as colonial mapping practices would render it as. It is also the air, the soil, and subsurface geology, and the water.  
-
+<br><br>
 #### III. Treaty  
 
 ![FIGURE 05: 1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.](/summer2020_research/images/navajo/FIGURE-05.jpg)
@@ -46,7 +46,7 @@ This treaty also enshrined several principles of settler colonial governmentalit
 Naal Tsoos Saní also brought with it the paradoxes of recognition—being recognized as soverign by the United States government enabled the United States government to dictate what sovereignty meant and the forms through which it could be practiced and acknowledged. Dene political theorist Glen Coulthard describes the politics of recognition like this, “the politics of recognition in its contemporary liberal form promises to reproduce the very configurations of colonialist, racist, patriarchal state power that Indigenous people’s struggles for recognition sought to transcend.”<sup>8</sup> In the case of water rights, recognition has meant entering into a process of negotiation, arbitration, and settlement with the state that has then lead to compromised rights to water. State and federal laws circumscribe the terms by which one can claim water, the ways in which one might understand water, and the landbase from which it could be claimed. 
 
 The treaty established private property ownership, Western agricultural practices, and the logic of expansion on the Navajo Nation, and within the documents that governed its existence. And while within the treaty attention was paid to practices of surveying and the enforcement of property among Navajo “settlers,” there was no mention of subsurface rights, including water. However, per the laws governing the establishment of reservations, unless explicitly stated land rights are meant to extent to natural resources.<sup>9</sup> These obligations were not upheld and over the twentieth century tribes had to fight for their mineral and water rights. 
-
+<br><br>
 #### IV. Reservation  
 
 <img src="/summer2020_research/images/navajo/FIGURE-06.gif" alt="description of image" class="full-img"> FIGURE 06: Expansion of the Navajo Reservation 1868-1934.
@@ -58,7 +58,7 @@ Over half a decade the land base of the Diné people grew to approximate—but n
 The letter goes on describe good relationships with white settlers but also settlers who would take Navajo allotments or expand their property lines into them. It also decries the constant relocation of Diné families: “we are paying taxes on this land and still we are asked to move out…” Allotment was a conception and representation of land completely counter to Diné ways of thinking. For the Diné, whose four sacred mountains are made of soil from the underworld, the subsurface, surface, and sky were interconnected. Surveying and allotting practices denied such a view and limited the notion of land and resources. 
 
 Ultimately, the government extended the Navajo Nation into this checkerboard area of Arizona, but with, as Kelley and Francis point out, the intention of reducing Navajo livestock to prevent erosion and water depletion along the Colorado river as it surged to the newly-built Hoover Dam. By the early 1930s the Colorado River watershed had been neatly split between the five new states of the American West, leaving out native nations. 
-
+<br><br>
 #### V. Prior Appropriation  
 
 As white settlers began to move into the newly acquired lands of the Southwest—enabled by the Santa Fe railroad that cut across the southern portion of the Navajo Reservation—the then territories created laws to regulate the use of water. Arizona was the first territory to establish a prior appropriation law for water in 1864. Prior appropriation doctrine, “gives unequal rights in streams according to the relative times of beginning use.”  This means that whoever first uses the water can lay claim to that, and that claim would be registered with the territorial, and then state, government. Furthermore, water rights are based on not just any use but rather “beneficial use,” defined by the government as “productive.” Productive use is primarily understood as industrial and agricultural, reflecting the needs of the mining industry and settler agriculture in the region. 
@@ -74,7 +74,7 @@ According to prior appropriation in the public domain “state law (usually the 
 ![FIGURE 07: Land and water jurisdiction on the Navajo Nation in Utah.](/summer2020_research/images/navajo/FIGURE-07.png)
 
 ![FIGURE 08: Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.](/summer2020_research/images/navajo/FIGURE-08.png)
-
+<br><br>
 #### VI. Colorado River Compact  
 
 ![FIGURE 09: Colorado River Compact 1922.](/summer2020_research/images/navajo/FIGURE-09.jpg)
@@ -82,8 +82,7 @@ According to prior appropriation in the public domain “state law (usually the 
 By the early 1920s, as cities like Los Angeles, Tucson, and Phoenix grew, it became clear that water would be a finite, and much vied for, resource in the west. Wending through seven states, the Colorado River and its tributaries supply most of the fresh water in the region. In 1922, these states (Arizona, California, Colorado, New Mexico, Nevada, Utah, and Wyoming) forged the Colorado River Compact, to “equitably divide” the waters of the Colorado and establish “the relative importance” of various beneficial uses of the water. Under this legislative agreement the seven states had rights to 7,500,000 acre feet a year from both the upper and lower Colorado River watersheds. Anticipating population growth,  the lower Colorado River basin could increase this by one million acre feet a year.<sup>13</sup> While article seven of the Compact states that, “nothing in this compact shall be construed as effecting the commitments of the United States of America to Indian Tribes,” there were no tribal representatives at the negotiating table, and the compact does not explicitly indicate how much water would go to the many Native nations within the watershed at the time of signing.<sup>14</sup> In fact at the time the compact was signed there was no mechanism to enforce existing commitments with Tribes. While the Winters Doctrine had established that Native nations could claim enough water rights as to sustain the population of their reservation, there was no established standard to quantify them nor avenue to bring these claims to court. Further, sovereign tribal governments had treaties with the federal government and as so-called domestic dependents, negotiated with the federal government. Water rights were allocated to and divvyed up by states. Tribal governments fell into an intentional jurisdictional gap. 
 
 In 1922, when the compact went into effect, the Navajo Nation was smaller it is today, meaning that and existing commitments would only apply to those 1922 boundaries and individual Navajo citizens would have to continue to petition the state for water rights as reservation boundaries extended. But most importantly, the Colorado River Compact treated water as property to be commodified, owned, and governed—just as land had been by the Dawes Act. For the Diné, through whose lands the river runs, its water holds other meanings. Water is a relative not a resource to be claimed and exhaustively extracted for commercial development. Water is to be lived with, sustained, and cared for. The compact framed water through an entirely different jurisdictional apparatus, and through a world view of development and extraction. It was this logic that would make water more scarce and less cared for in Diné Bikeyah. 
-
-
+<br><br>
 #### VII. Settlements  
 
 ![FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.](/summer2020_research/images/navajo/FIGURE-10A.jpg)
@@ -105,9 +104,8 @@ Andrew Curley describes how activists protested the very limited water rights ag
 According to Curley the activists and tribal offices participating in water rights settlements, and surrounding debates, are navigating a paradoxical terrain. They must fight to meet the very real need for water infrastructure on the Navajo Nation while still opposing the settler colonial logics of water rights settlements. “Diné water governance transcends the colonial limitations of western water law through use of both pragmatic and decolonial practices. Diné advocates work to maximize water quantification while supporting the idea of traditional water uses for sustainable lifeways,” he writes.<sup>21</sup>
 
 A report commissioned by Arizona congressperson Raul Grijavla recognizes that the federal government has, historically, blatantly ignored its obligations to native nations in the interest of settler expansion in the West, “Tribes often hold the most senior water rights in many river basins. Under federal law, the federal government must protect these tribal water rights. However, for more than a century, the federal government has failed to fulfill this role and, in many cases, actively undermined tribal water rights to provide water to non-Indian neighbors. To encourage people to move West in the 1900s, the federal government provided land and infrastructure, building the pipes and systems needed to bring heavily subsidized irrigation and drinking water to settlers. This water frequently came at tribes’ expense. As a result, today, many tribes still lack access to water. 
-
+<br><br>
 #### VIII. Wet Water  
-
 
 ![FIGURE 11: Houses without water and proposed water infrastructure on the Navajo Nation. Courtesy of Navajo Tribal Utility Authority.](/summer2020_research/images/navajo/FIGURE-11.png)
 
@@ -126,7 +124,7 @@ Within the tribal government, the Navajo Tribal Utility Authority is working to 
 The use of CARES act funds for water and electricity poses the question: what does care look like and what does it take to get it? Navajo Water Rights struggles are over 150 years old, the pandemic is exposing these struggles to many Americans for the first time. Care is political, and in the case of the Covid relief on the Navajo Nation, care requires reckoning with centuries of settler colonial history that are producing conditions of vulnerability today. A vulnerability index may helpfully point to areas where relief is needed in the present. But more work needs to be done to understand how that vulnerability has been produced and what ends it is serving. And work must be done to dismantle it. This is the work that collectives, citizens, and agencies on the Navajo Nation have been doing for decades. Raul Grijavla’s congressional report concludes “the United States expects all nations to live up to their treaty obligations; it should live up to its own.”<sup>28</sup> Care requires caring for treaty obligations and understanding so-called resources like land and water through the terms of the Indigenous nations those treaties are with. Scholar Maria Puig de Bellacasa calls for, “exploring an idea of care that goes beyond moral disposition or well-intentioned attitude to consider its significance for knowledge construction.”<sup>29</sup> Here the kind of care that will forestall future devastation from the pandemic or other health emergencies requires foreground water as a right not as a commodity or form of property separated from the land it runs through and under but instead as enmeshed in and a part of it. It will require caring for water as an element of Diné sovereignty over Diné Bikeyah. 
 
 ![FIGURE 12: Flyer from ToÌ Bei Nihi Dziil.](/summer2020_research/images/navajo/FIGURE-12.jpg)  
-
+<br><br>
 #### Notes  
 
 1. Hollie Silverman, Konstantin Toropin, Sara Sidner and Leslie Perrot, “Navajo Nation surpasses New York state for the highest Covid-19 infection rate in the US,” CNN, May 18, 2020, [Link](https://www.cnn.com/2020/05/18/us/navajo-nation-infection-rate-trnd/index.html)
