@@ -6,8 +6,8 @@ title:  "COVID-19 and Water Rights On the Navajo Nation"
 author: "Caitlin Blanchfield"
 ---
 
-<img src="/summer2020_research/images/navajo/FIGURE-01.jpg" alt="FIGURE 01: Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News." class="full-img"> 
-*FIGURE 01: Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News.*
+<img src="/summer2020_research/images/navajo/FIGURE-01.jpg" alt="Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News." class="full-img"> 
+*Stay at home order near Many Farms, Arizona on the Navajo Nation. From NBC News.*
 <br><br>
 #### Introduction  
 In mid-March of 2020, around the time that the World Health Organization had declared COVID-19 a pandemic and the United States had claimed it a national emergency, hotspots began to emerge throughout the country as the virus took hold with particular intensity in specific regions. Many of these were urban areas with high density, cities like Seattle and then New York, Detroit, and suburban New Jersey. One hotspot however seemed to surprise both the public and public health officials: the Navajo Nation, a Native American reservation that spans northern Arizona, southern Utah, and northern New Mexico. In April cases on the Navajo Nation started rapidly climbing, by May 18, it had surpassed New York for highest cases per capita.<sup>1</sup> Though first underreported due to the way COVID data was aggregated by county, the Navajo Nation did soon emerge as site of much media coverage. The virus was shedding light on the underlying conditions that had allowed it to spread. 
@@ -18,16 +18,15 @@ While there are several causes attributed to the COVID outbreak on the Navajo Na
 
 In the words of Diné geographer Andrew Curley, “When we see statistics stating that 30% to 40% of Diné communities lack running water during a global pandemic, they are not statistics without history. The entire situation is an artifact of colonialism. It is the result of decades of indifference, neglect and deliberate underdevelopment.”<sup>4</sup> This is an ongoing struggle that grassroots collectives, citizens, NGOs and agencies like the Navajo Tribal Utility Authority (NTUA) as well as the Tribal Government are currently confronting with particular urgency in response to the pandemic. Neighbors are delivering water barrels, organizations are digging wells, the NTUA is building cisterns and pipelines. Activists are demanding rights to their traditional waters. This essay chronicles a history of settler colonial policies that have attempted to take water from Diné homelands, and the work of tribal members to restore their rights to water. 
 
-![FIGURE 02: Indigenous territories of the Southwest.](/summer2020_research/images/navajo/FIGURE-02.jpg)  
-*FIGURE 02: Indigenous territories of the Southwest.*
+![Indigenous territories of the Southwest.](/summer2020_research/images/navajo/FIGURE-02.jpg)  
+*Indigenous territories of the Southwest. Data from [Native Land Digital](https://native-land.ca/).*
 <br><br>
 #### II. Diné Bikéyah  
 
-<img src="/summer2020_research/images/navajo/FIGURE-03-04.jpg" alt="FIGURE 03: Diné Bikéyah and neighboring nations. FIGURE 04: Diné Bikéyah." class="full-img">
-*FIGURE 03: Diné Bikéyah and neighboring nations. FIGURE 04: Diné Bikéyah.*  
+<img src="/summer2020_research/images/navajo/FIGURE-03-04.jpg" alt="Diné Bikéyah and neighboring nations. Diné Bikéyah." class="full-img">
+*Diné Bikéyah and neighboring nations. (right) Diné Bikéyah.*  
 
-The ancestral homelands of the Diné people, Diné Bikéyah, encompass the land between four sacred mountains—Sisnaajiní (Blanca Peak), Tsoodził (Mount Taylor), Dook’o’oosłííd (San Francisco Peaks), and Dibé Nitsaa (Hesperus Mountain) in a territory that overlaps Hopi, Paiute, Ute, and Zuni lands. The boundaries of Diné Bikéyah extend across what are now the states of Arizona, Colorado, Utah, and New Mexico. The current Navajo Reservation covers much, though not all, of these ancestral homelands. 
-
+The ancestral homelands of the Diné people, Diné Bikéyah, encompass the land between four sacred mountains—Sisnaajiní (Blanca Peak), Tsoodził (Mount Taylor), Dook’o’oosłííd (San Francisco Peaks), and Dibé Nitsaa (Hesperus Mountain) in a territory that overlaps Hopi, Paiute, Ute, and Zuni lands. The boundaries of Diné Bikéyah extend across what are now the states of Arizona, Colorado, Utah, and New Mexico. The current Navajo Reservation covers much, though not all, of these ancestral homelands.  
 Jennifer Nez Denetdale describes Navajo land as follows:
 
 >Dinétah is the place where earth people and Holy People interacted; their relationships form the foundation of practices and teachings that underlie Navajo life today. The Holy People set the Diné homeland’s boundaries with soil brought from the lower world, placing the soil as mountains in each of the four directions. Diné Bikéyah refers to the lands that lie within the four sacred mountains, which are named Sis Naajiní, or Blanca Peak, in the east; Tsoodził, or Mount Taylor, in the south; Dook’oosłííd, or the San Francisco Peaks, in the west; and Dibé Nitsaa, or Mount Hesperus, in the north. The soil brought from the world below also formed two other mountains: Dził Na’oodiłii, or Huerfano Mountain—east of the center, and Ch’ool’í’í, or Gobernador Knob—the center. These last two mountains are within Dinétah and central to events that occurred when the progenitors of the Diné emerged into the world we inhabit today, which is known as the Glittering World. Traditional Navajo philosophy names these six mountains as the leaders of the Diné. It is in this place that the philosophy sa’ah nagháí bik’eh hózhóón was established through actions and words. Navajo leaders and citizens declare that traditional teachings form the foundation of the sovereignty that the United States recognized in the Treaty of 1868.<sup>5</sup>
@@ -36,8 +35,8 @@ As Denetdale’s telling of Diné Bikeyah’s origin story reflects, the interco
 <br><br>
 #### III. Treaty  
 
-![FIGURE 05: 1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.](/summer2020_research/images/navajo/FIGURE-05.jpg)
-*FIGURE 05: 1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.*
+![1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.](/summer2020_research/images/navajo/FIGURE-05.jpg)
+*1868 Treaty and map of 1868 Treaty Boundary overlain on Diné Bikeyah.*
 
 The Diné had lived in and moved through Dine Bikeyah for thousands of years, but as the West and Southwest were “opened” to settlement in the mid-nineteenth century that land was claimed by white settlers moving into Arizona, New Mexico, and Utah territories in advance of their anticipated statehood. Settler incursions and land grabs escalated into violent invasion in 1863 when the United States Union Army entered Diné territory, destroying lives and land in a deadly scorched earth policy. Ultimately, the army, led by Kit Carson, forced the Diné people in what was called “the long walk” onto the Bosque Redondo concentration camp in New Mexico territory. 
 
@@ -51,8 +50,8 @@ The treaty established private property ownership, Western agricultural practice
 <br><br>
 #### IV. Reservation  
 
-<img src="/summer2020_research/images/navajo/FIGURE-06.gif" alt="FIGURE 06: Expansion of the Navajo Reservation 1868-1934." class="full-img"> 
-*FIGURE 06: Expansion of the Navajo Reservation 1868-1934.*
+<img src="/summer2020_research/images/navajo/FIGURE-06.gif" alt="Expansion of the Navajo Reservation 1868-1934." class="full-img"> 
+*Expansion of the Navajo Reservation 1868-1934.*
 
 <br>
 Over half a century the land base of the Diné people grew to approximate—but not equal—its original extent as the Navajo Reservation was expanded through executive orders and land purchases. Executive orders were hard won; Diné families struggled to regain land occupied by white settlers and petitioned the federal government relentlessly for reservation boundaries to be redrawn.<sup>10</sup> The Naal Tsoos Saní-created reservation contained less than a quarter of Navajo homelands; there was not enough space to sustain ranching and farming, and Diné families wanted to return to their original homes. But the federal government had already started giving this land away in the checkerboard pattern of speculation it used to subsidize railroad development (land sales of alternating parcels would fund the railroad). 
@@ -79,16 +78,16 @@ In 1903, Utah passed prior appropriation laws for surface water, and in 1935 it 
 
 According to prior appropriation in the public domain “state law (usually the law of appropriation to actual use) governs waters upon a Federal reservation as in any other part of the State.”<sup>13</sup> This includes reservation land. However, the federal government recognized that state laws had not been acknowledging and protecting the rights of tribal governments and citizens. In 1908, the U.S. Supreme Court held in Winters v. United States that when Congress set aside lands for a reservation, it impliedly reserved sufficient water for Indian tribes to fulfill the purpose of creating the reservation. However, Winters did not set forth a method to quantify water rights beyond "sufficient water to fulfill the reservation’s purpose." The U.S. Supreme Court would later establish a method for quantifying agricultural water rights in Arizona v. California (1963), which adopted the practicably irrigable acreage standard.
 
-![FIGURE 07: Land and water jurisdiction on the Navajo Nation in Utah.](/summer2020_research/images/navajo/FIGURE-07.png) 
-*FIGURE 07: Land and water jurisdiction on the Navajo Nation in Utah.*
+![Land and water jurisdiction on the Navajo Nation in Utah.](/summer2020_research/images/navajo/FIGURE-07.png) 
+*Land and water jurisdiction on the Navajo Nation in Utah.*
 
-![FIGURE 08: Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.](/summer2020_research/images/navajo/FIGURE-08.png)
-*FIGURE 08: Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.*
+![Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.](/summer2020_research/images/navajo/FIGURE-08.png)
+*Land and water jurisdiction on the Navajo Nation in Arizona and New Mexico.*
 <br><br>
 #### VI. Colorado River Compact  
 
-![FIGURE 09: Colorado River Compact 1922.](/summer2020_research/images/navajo/FIGURE-09.jpg)
-*FIGURE 09: Colorado River Compact 1922.*
+![Colorado River Compact 1922.](/summer2020_research/images/navajo/FIGURE-09.jpg)
+*Colorado River Compact 1922.*
 
 By the early 1920s, as cities like Los Angeles, Tucson, and Phoenix grew, it became clear that water would be a finite, and much vied for, resource in the west. Wending through seven states, the Colorado River and its tributaries supply most of the fresh water in the region. In 1922, these states (Arizona, California, Colorado, New Mexico, Nevada, Utah, and Wyoming) forged the Colorado River Compact, to “equitably divide” the waters of the Colorado and establish “the relative importance” of various beneficial uses of the water. Under this legislative agreement the seven states had rights to 7,500,000 acre feet a year from both the upper and lower Colorado River watersheds. Anticipating population growth, the lower Colorado River basin could increase this by one million acre feet a year.<sup>14</sup>  
 
@@ -98,8 +97,8 @@ In 1922, when the Compact went into effect, the Navajo Nation was smaller than i
 <br><br>
 #### VII. Settlements  
 
-![FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.](/summer2020_research/images/navajo/FIGURE-10.jpg) 
-*FIGURE 10 A-C: Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.*
+![Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.](/summer2020_research/images/navajo/FIGURE-10.jpg) 
+*Water rights adjudication and settlements between the Navajo Nation, Arizona, Utah, and New Mexico.*
 
 
 The decades following the Colorado River Compact saw the Navajo land base increase, but its water rights stagnate. *Winters* promises went unfulfilled while water both on and below the surface of Diné Bikeyah was siphoned and drained for state and federal projects.<sup>16</sup> These projects would have lasting consequences. During WWII, the United States developed its nuclear program by extracting uranium and testing bombs in the Southwest, primarily on Indigenous land in Arizona, Utah, New Mexico and Nevada. Ample stores of uranium were found on the Navajo Nation, and private mining companies contracted by the federal government quickly began leasing Navajo land. Brokered by state governments, these leases directed revenue earned on Navajo trust land (as opposed to allotment land) to be held in trust by the federal government to disburse to a tribal government (whose structures it had created). As a result, land leases were negotiated in favor of mining corporations, while uranium and coal contaminated the bodies of miners and the ecology of the region as they leached into the water table and dissipated into the air. 
@@ -122,8 +121,8 @@ A report commissioned by Arizona congressperson Raul Grijavla recognizes that th
 <br><br>
 #### VIII. Wet Water  
 
-![FIGURE 11: Houses without water and proposed water infrastructure on the Navajo Nation. From Navajo Tribal Utility Authority.](/summer2020_research/images/navajo/FIGURE-11.png)
-*FIGURE 11: Houses without water and proposed water infrastructure on the Navajo Nation. From Navajo Tribal Utility Authority.*
+![Houses without water and proposed water infrastructure on the Navajo Nation. From Navajo Tribal Utility Authority.](/summer2020_research/images/navajo/FIGURE-11.png)
+*Houses without water and proposed water infrastructure on the Navajo Nation. From Navajo Tribal Utility Authority.*
 
 
 There are currently two water rights settlements that have been negotiated between the Navajo Nation and the states it borders, one as recently as last year. The 2019 Navajo Utah Water Rights Settlement Act allocates 81,500 acre-feet per year of surface and groundwater from the Upper Colorado River Basin in Utah to the Navajo Nation. It also authorizes over 200 million dollars for the creation and maintenance of water development projects to be held in trust for use by the Navajo Nation. 
@@ -142,8 +141,8 @@ Within the tribal government, the Navajo Tribal Utility Authority is working to 
 
 The use of CARES act funds for water and electricity poses the question: what does care look like and what does it take to get it? Though Navajo Water Rights struggles are over 150 years old, the pandemic is exposing these struggles to many Americans for the first time. Care is political, and in the case of the Covid relief on the Navajo Nation, care requires reckoning with centuries of settler colonial history that are producing conditions of vulnerability today. A vulnerability index may helpfully point to areas where relief is needed in the present. But more work needs to be done to understand how that vulnerability has been produced and what ends it is serving. And work must be done to dismantle it. This is the work that collectives, citizens, and agencies on the Navajo Nation have been doing for decades. Raul Grijavla’s congressional report concludes “the United States expects all nations to live up to their treaty obligations; it should live up to its own.”<sup>29</sup> Care requires caring for treaty obligations and understanding so-called resources like land and water through the terms of the Indigenous nations those treaties are with. Scholar Maria Puig de Bellacasa calls for, “exploring an idea of care that goes beyond moral disposition or well-intentioned attitude to consider its significance for knowledge construction.”<sup>30</sup> Here the kind of care that will forestall future devastation from the pandemic or other health emergencies requires foregrounding water as a right not as a commodity or form of property separated from the land it runs through and under but instead as enmeshed in and a part of it. It will require caring for water as an element of Diné sovereignty over Diné Bikeyah.
 
-![FIGURE 12: Flyer from ToÌ Bei Nihi Dziil.](/summer2020_research/images/navajo/FIGURE-12.jpg)  
-*FIGURE 12: Flyer from ToÌ Bei Nihi Dziil.*
+![Flyer from ToÌ Bei Nihi Dziil.](/summer2020_research/images/navajo/FIGURE-12.jpg)  
+*Flyer from ToÌ Bei Nihi Dziil.*
 <br><br>
 #### Notes  
 
@@ -175,5 +174,5 @@ The use of CARES act funds for water and electricity poses the question: what do
 26. Alastair Lee Bitsóí, “Westwater Needs Water,” February 8, 2020, [Link](https://utahdinebikeyah.org/westwater-needs-water/)
 27. Laurel Morales, “For Many Navajo, A Visit From The 'Water Lady' Is A Refreshing Sight,” NPR, January 6, 2015, [Link](https://www.npr.org/sections/codeswitch/2015/01/06/374584452/for-many-of-navajo-nation-water-delivery-comes-monthly)
 28. Alyssa Becenti, “$174 Million Still up for Grabs,” *Navajo Times*, September 10, 2020, [Link](https://navajotimes.com/coronavirus-updates/174-million-still-up-for-grabs/)
-29. ...
+29. Raul Grijavla, "Water Delayed is Water Denied: How Congress Blocked Access to Water for Native Families," *A report by the Democratic staff of the House Committee on Natural Resources*, October 10, 2016, [Link](https://www.fcnl.org/documents/194).
 30. Maria Puig de Bellacasa, “Matters of care in technoscience: Assembling neglected things,” *Social Studies of Science* vol. 41, no. 1, (February 2011): 86. 
