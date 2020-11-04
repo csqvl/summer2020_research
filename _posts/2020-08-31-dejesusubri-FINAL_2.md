@@ -10,15 +10,15 @@ author: "Nelson De Jesus Ubri"
 #### Social Vulnerability Index (SVI) Breakdown at County Level
 
 
-As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one of the fifteen social factors composing the *Social Vulnerability Index (SVI)*, serves as a metric to identify vulnerable US counties with high rates of **occupancy per room (PPR)**. The CDC calculates PPR at 1.5 or more persons per room, which leads to higher vulnerability of a household. This metric is particularly important during the spread of a new highly contagious infectious disease because crowding is a condition-based indicator that helps understand vulnerability at an urban and rural scale based on the National Center for Health Statistics(NCHS)/CDC classification.
+As a measure of vulnerability during the Coronavirus pandemic, **crowding**, one of the fifteen (15) social factors composing the *Social Vulnerability Index (SVI)*, serves as a metric to identify vulnerable US counties with high rates of **occupancy per room (PPR)**. The Centers for Disease Control and Prevention (CDC) calculates PPR at 1.5 or more persons per room, which leads to a higher vulnerability for a household. This metric is particularly important during the spread of highly contagious and infectious diseases because crowding is a condition-based indicator that helps understand vulnerability at an urban and rural scale based on the National Center for Health Statistics (NCHS)/CDC classification.
 
 **Methodology: Part 1:**
-As the Social Vulnerability Index (SVI) is broken down, how would focusing on a single social factor (Crowding) help understand the vulnerability of a household at a county/census tract level through the following framework? County Identification:
+As the Social Vulnerability Index (SVI) is broken down, how can focusing on a single social factor (Crowding) help us understand the vulnerability of a household at a county/census tract level through the following framework:
 1. SVI Vulnerability Level: 0.975-1 Level
 1. SVI Crowding Vulnerability Level: 0.975-1 Level
 1. National Center for Health Statistics(NCHS)/CDC classification
   * What is the classification of the most vulnerable counties?
-  * What region are they located?
+  * What region are they located in?
   * What are their characteristics?
       - Population
       - Main Industry(ies)
@@ -40,7 +40,7 @@ Source: CDC Social Vulnerability Index (SVI). Link to sources [text of link](htt
 **Mapping: Overall SVI at County Level per State**
 ![Overall SVI](/summer2020_research/images/crowding/Overall SVI_0_975_1_Crowded_Map-08.png)
 
-All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties base on their individual vulnerability. It ranges from 0 tp 1.  
+All of the counties and their overall vulnerability is being plotted in the graph above. The sizes of the circles represent the count of COVID-19 cases in the county. The data reflects the vulnerability scale that the *CDC Social Vulnerability Index (SVI)* uses to classify counties based on their individual vulnerability. It ranges from 0 to 1.
 The map geolocates the counties that are most vulnerable based on the *overall SVI scale*. Counties that have a *vulnerability of 0.975* or higher are shown. Highlighted with the red outline are the counties with the highest vulnerability.
 
 --
@@ -73,7 +73,7 @@ Source: NYT Covid_19 Data Count. Link to sources [text of link](https://github.c
 
 All of the counties and their crowding vulnerability is being plotted in the graph above. The sizes of the circles represent the share of population of each county with COVID-19.
 
-The color combination sequences of the three graphs above use six colors to identify under which National Center for Health Statistics(NCHS)/CDC classification each county falls. The six classifications are as follows:
+The color combination sequences of the three graphs above use six (6) colors to identify under which National Center for Health Statistics (NCHS)/CDC classification each county falls. The six classifications are as follows:
 1. Large Metro
   * Large Central Metro (1)
   * Large Fridge Metro (2)
@@ -91,18 +91,18 @@ Source: National Center for Health Statistics(NCHS)/CDC. Link to sources [text o
 Understanding the underlying conditions that lead to underhoused households and crowding vulnerability is dependent on identifying the location of high concentrations of said vulnerability. The census tract breakdown will help build a more accurate picture of crowding vulnerability within a county. This data will be enhanced by satellite imagery to locate population clusters and identify some of its physical characteristics.
 
 **Methodology: Part 2:**
-For this analysis, correlations between **high crowding and Covid-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification. The census tract identification is as follows:
-1. County Breakdown into Census Tract Level:
-  * Using the Crowding Social Factor vulnerability:
+For this analysis, correlations between **high crowding and COVID-19 case rates** will be the main criteria taken into account when describing and comparing counties and census tracts. Urban and rural counties will be compared down to census tract level and counties with the same NCHS/CDC classification.
+Site Identification:
+1. Census Tract Level analysis: Breakdown of SVI
+  * Using the crowding vulnerability:
       - What census tract is most vulnerable based on crowding?
       - What are the population centers within the census tract?
-      - Overlapping with Covid-19 case count data. Depending on availability.
+      - Overlapping with COVID-19 case count is data is available
 1. Satellite Imagery
   * Population Clusters
-      - Potential Housing Typology: The CDC considers mobile homes and multi-unit structures *(10 or more units)* a point of vulnerability
+      - Potential Housing Typology: The CDC considers mobile homes and multi-unit structures a point of vulnerability
       - Household composition?
-      - Demographics
-      - Industry: What is the most prevent employment industry?
+      - Industry: What is the most preventable employment industry?
 1. The crowding vulnerability indicators to be used include:
   * Housing type
   * Transportation mode
@@ -111,12 +111,11 @@ For this analysis, correlations between **high crowding and Covid-19 case rates*
   * Household Size
   * Household Occupancy per Room
   * Current news stories that help connect these indicators
-1. Once at street level, observing to potentially identify patterns.
 
 **Counties with Highest Crowding Vulnerability**
 ![Overall SVI](/summer2020_research/images/crowding/Overall SVI_0_975_1_Selected Sites-09.png)
 
-The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Six (6) of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and Covid-19 case rates** were considered the main vulnerability indicators to select these counties.
+The list of counties above are the most vulnerable based on the Crowding Social Factor from the Social Vulnerability Index (SVI). Four of these counties were selected to break down to the census tract level to identify where crowding vulnerability is located. As described above, **high crowding and COVID-19 case rates** were considered the main vulnerability indicators to select these counties.
 
 --
 
@@ -124,9 +123,9 @@ The list of counties above are the most vulnerable based on the Crowding Social 
 
 **Site 1: Bronx County, NY**
 
-Household crowding in New York City has been an issue that has worsened over the last decade. A report released by the city's comptroller's office in October 2015 details crowding conditions in each of the five boroughs, increasing 15.8 percent city-wide between 2005 and 2013. The Bronx was the borough (county) with the most crowded households, with 12.4 percent of its housing units being crowded.
+Household crowding in New York City has been an issue that has worsened over the last decade. A report released by the Office of Comptroller of New York City in October 2015 details crowding conditions in each of the five (5) boroughs, with an increase of 15.8 percent city-wide between 2005 and 2013. The Bronx was the borough (county) with the most crowded households, with 12.4 percent of all of its housing units being crowded. 
 
-Based on the overall Social Vulnerability Index (SVI), crowding conditions, and Coronavirus infections, Bronx County is the most vulnerable county. Within this borough, Highbridge/Concourse Village was one of the most affected community districts by the Covid-19 based on antibody result data released by the NYC Health Department. It also has some of the highest levels of crowding vulnerability at the census tract level. Below is a case study that compares county and census tract vulnerability.
+Based on the overall Social Vulnerability Index (SVI), crowding conditions and COVID-19 infections, the Bronx County is the most vulnerable county. Within this borough, Highbridge/Concourse Village was one of the most affected community districts by the COVID-19 based on antibody result data released by the NYC Health Department. It also has some of the highest levels of crowding vulnerability at the census tract level. Below is a case study that compares county and census tract vulnerability.
 
 <img src="/summer2020_research/images/crowding/Bronx_County_Satellite_-01.png" alt="Bronx County, NY" class="full-img">
 
@@ -153,7 +152,7 @@ The site above is representative of *Large Central Metro (1)* based on the Natio
 
 **Site 2: Tunica County, MS**
 
-Tunica County is the most vulnerable county in terms of overall SVI (0.9720) and crowding (0.9124) with a National Center for Health Statistics(NCHS)/CDC classification of *Large Fridge Metro (2)*. This county experiences less crowding than others compared in this analysis, however, as a county in the middle of the Lower Mississippi Delta with a majority black population. It represents a different demographic breakdown that is not as represented in the other counties. Below is a case study that compares county and census tract vulnerability.
+Tunica County is the most vulnerable county in terms of overall SVI and crowding social factor with a classification of Large Fridge Metro (2). This county experiences less crowding than others compared in this analysis, but as a county in the middle of the Lower Mississippi Delta with a majority Black population, it represents a different demographic breakdown that is not as represented in the other counties. Below is a case study that compares county and census tract vulnerability.
 
 <img src="/summer2020_research/images/crowding/Tunica County MS-01.png" alt="description of image" class="full-img">
 
