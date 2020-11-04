@@ -44,23 +44,19 @@ layout: default_home
         </div>
       </div>
     </div>
-
-    
   </section>
         <!-- Project Section -->
   <section id="project">
     <h3 align="left" style="text-align:left">Case Studies</h3>
-    <br>
+  <br></br>
       {%- for post in site.posts -%}
       <div class="col-xs-6 col-sm-3">
-        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span> -->
         {%- if post.image -%}
         <a href="{{ post.url | relative_url }}">
-        <div class ="post__img">
-            <img class = "img img-fluid full-width" src="{{ post.image }}" alt="{{ post.title }}"/>
+          <div class ="post__img">
+              <img class = "img img-fluid full-width" src="{{ post.image }}" alt="{{ post.title }}"/>
           </div>
-          </a>
+        </a>
         {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
@@ -86,8 +82,7 @@ layout: default_home
           </a>
         </h3>
       </div>
-    </div>
-  </div>
+  </section>
   {%- endif -%}
 
   
